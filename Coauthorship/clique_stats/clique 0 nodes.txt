@@ -1,0 +1,207 @@
+id,country
+36174820700,United states
+6603838254,Norway
+6504769630,Russian federation
+57214866983,Russian federation
+57214866469,Russian federation
+57214865814,Russian federation
+57216247949,Russian federation
+57214865225,Russian federation
+57074782000,Ukraine
+57210839936,Russian federation
+57197589611,Russian federation
+57214865797,Russian federation
+55943177900,Ukraine
+57214866632,Uzbekistan
+57214866664,Russian federation
+57214868248,Russian federation
+57214865575,Russian federation
+35608440200,Russian federation
+57214865290,Ukraine
+57204199376,Russian federation
+57204587907,Russian federation
+57220770162,Russian federation
+57220763689,Russian federation
+57214865128,Ukraine
+57214866065,Uzbekistan
+57214868599,Russian federation
+57214866079,Russian federation
+57214868166,Russian federation
+57209305169,Russian federation
+57214867586,Russian federation
+57214864864,Russian federation
+57214866130,Russian federation
+57214864887,Russian federation
+57214866411,Russian federation
+57204582194,Russian federation
+57214866735,Russian federation
+57202681200,Russian federation
+57214866936,Russian federation
+57214865723,Ukraine
+57214865830,Russian federation
+57214865556,Russian federation
+57209305613,Russian federation
+57214867990,Russian federation
+57214865828,Russian federation
+55826924500,Russian federation
+57210840359,Russian federation
+57214868011,Russian federation
+57204592533,Russian federation
+57195928188,Russian federation
+57204579953,Russian federation
+57214865976,Russian federation
+57204589408,Russian federation
+57205377903,Ukraine
+55827024800,Russian federation
+55350352900,Russian federation
+57214866648,Russian federation
+57214867282,Ukraine
+57214867104,Russian federation
+55948601300,Russian federation
+57214865519,Ukraine
+57214864576,Russian federation
+57214866338,Russian federation
+57214867254,Russian federation
+57214868495,Russian federation
+57214867182,Ukraine
+57214866231,Russian federation
+55939488300,Russian federation
+57214865921,Russian federation
+57214868255,Ukraine
+6504065053,Russian federation
+57204585809,Russian federation
+57214866743,Russian federation
+57214867571,Russian federation
+6603057052,Russian federation
+57214867118,Russian federation
+54892721300,Russian federation
+57207877715,Russian federation
+57209303278,Russian federation
+57214867111,Russian federation
+57214865668,Russian federation
+57214866962,Russian federation
+57214866030,Ukraine
+57214868069,Russian federation
+57214867664,Russian federation
+57214865677,Russian federation
+57214867891,Belarus
+57214867752,Russian federation
+57214867642,Ukraine
+57214866290,Russian federation
+57214865245,Russian federation
+57196419448,Russian federation
+57214865587,Russian federation
+57214868556,Russian federation
+57217646973,Russian federation
+57214865620,Russian federation
+57214864669,Uzbekistan
+57214867734,Russian federation
+57211325888,Russian federation
+57214864778,Russian federation
+57204579832,Russian federation
+57214866706,Russian federation
+56549879100,Russian federation
+55827395400,Russian federation
+9133246700,Russian federation
+57214868175,Russian federation
+57214865477,Russian federation
+57214867842,Ukraine
+54892096400,Russian federation
+57214864812,Russian federation
+57214866526,Russian federation
+57214867873,Russian federation
+57193078202,Russian federation
+57192270393,Russian federation
+57214866158,Ukraine
+57204584890,Russian federation
+57214865036,Russian federation
+57209230135,Russian federation
+57214887947,Russian federation
+42861894100,Russian federation
+57214865129,Russian federation
+57214864589,Russian federation
+57214868304,Russian federation
+56082268400,Russian federation
+6701548158,Russian federation
+57221362030,Russian federation
+57214866446,Russian federation
+57214864694,Russian federation
+57199685040,Russian federation
+55350808700,Russian federation
+57210842683,Russian federation
+57214865559,Russian federation
+57214865266,Russian federation
+57214866352,Russian federation
+57214865126,Russian federation
+57214865393,Russian federation
+6504008885,Ukraine
+57214867212,Russian federation
+57214865675,Russian federation
+57194075300,Russian federation
+57214866552,Uzbekistan
+57214868144,Russian federation
+57214864698,Russian federation
+6506271830,Russian federation
+57214866129,Russian federation
+23491878700,Russian federation
+57204581675,Russian federation
+57214865657,Russian federation
+57204581186,Russian federation
+58621610500,Russian federation
+57214867551,Russian federation
+57214867547,Russian federation
+57214866475,Russian federation
+57214867829,Russian federation
+57194426104,Ukraine
+57195476040,Kyrgyzstan
+57214867523,Russian federation
+55763023500,Russian federation
+57214865891,Russian federation
+57214866071,Russian federation
+57214867930,Ukraine
+57214867316,Ukraine
+30467563400,Russian federation
+57214865706,Russian federation
+57214864790,Russian federation
+57214866069,Russian federation
+24278734700,Russian federation
+57214867437,Russian federation
+57214865882,Russian federation
+57192255324,Russian federation
+57214865382,Russian federation
+57214868493,Russian federation
+57214868640,Russian federation
+56989394200,Russian federation
+58319749000,Russian federation
+57212742253,Russian federation
+55619906200,Russian federation
+57214865333,Russian federation
+9942476400,Russian federation
+9243031800,Russian federation
+57212443795,Russian federation
+57204586483,Russian federation
+57214864885,Russian federation
+57214867029,Russian federation
+57214865607,Russian federation
+57214865736,Russian federation
+57214591531,Russian federation
+57204593199,Russian federation
+57214867835,Russian federation
+57214866468,Russian federation
+57214866730,Russian federation
+57214865263,Ukraine
+57214867844,Russian federation
+6507702707,Russian federation
+57214865716,Russian federation
+57214867917,Russian federation
+57214866007,Russian federation
+57214864742,Uzbekistan
+57214866949,Russian federation
+26431291300,United states
+7202169664,Spain
+57193748026,Finland
+57214865513,Finland
+24073352600,Finland
+36699721500,Finland
+57192923719,Finland
+6603524750,Finland

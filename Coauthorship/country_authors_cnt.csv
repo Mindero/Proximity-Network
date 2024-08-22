@@ -1,0 +1,903 @@
+country,count
+Russian Federation,7425
+United States,6804
+United Kingdom,2635
+Germany,1462
+Kazakhstan,1227
+Ukraine,1197
+Poland,782
+Israel,688
+Canada,657
+France,601
+Estonia,557
+Lithuania,524
+Australia,504
+China,499
+Italy,457
+Finland,417
+Sweden,354
+Czech Republic,348
+Turkey,331
+Netherlands,315
+Hungary,291
+Spain,277
+Latvia,276
+Japan,265
+Norway,252
+India,239
+Switzerland,232
+Romania,231
+Austria,213
+Georgia,204
+South Korea,165
+Brazil,156
+Iran,155
+Belgium,151
+Azerbaijan,139
+Kyrgyzstan,122
+Armenia,121
+Denmark,111
+Belarus,111
+Uzbekistan,108
+Slovakia,104
+South Africa,89
+Ireland,87
+Greece,83
+Serbia,80
+Hong Kong,79
+New Zealand,71
+Pakistan,70
+Bulgaria,69
+Moldova,66
+Singapore,65
+Slovenia,65
+Malaysia,58
+Mexico,57
+Croatia,53
+Tajikistan,49
+Mongolia,46
+Portugal,45
+Taiwan,44
+Argentina,43
+Viet Nam,42
+Cuba,40
+Chile,35
+United Arab Emirates,28
+Nigeria,28
+Colombia,25
+Indonesia,23
+Cyprus,15
+Egypt,14
+Philippines,13
+Jordan,13
+Russia,12
+Afghanistan,12
+Lebanon,12
+Albania,11
+Thailand,11
+Luxembourg,8
+Bosnia and Herzegovina,8
+Saudi Arabia,8
+University of Tehran,8
+University of London,7
+Algeria,7
+Peru,7
+Iraq,7
+Bangladesh,7
+Macao,6
+Tunisia,6
+Qatar,5
+Turkmenistan,5
+Kuwait,5
+RAS,5
+Almaty,5
+Palestine,5
+Cameroon,5
+050010,5
+Tanzania,4
+USA,4
+Montenegro,4
+Uruguay,4
+Iceland,4
+University of Washington,4
+Moscow,4
+Institute of Cultural Heritage,4
+Academy of Federal Penitentiary Service of Russia,4
+Russian Republic,3
+Ethiopia,3
+Malta,3
+Costa Rica,3
+Russian Academy of Sciences,3
+IRIS,3
+United States Holocaust Memorial Museum,3
+Large in Mercy Corps,3
+Sri Lanka,3
+Morocco,3
+International Union Against Tuberculosis and Lung Disease (Iuatld),3
+Aga-Khan Foundation in Kyrgyzstan,3
+Madagascar,3
+Ecuador,3
+The New School for Social Research,3
+Kenya,3
+Shahid Bahonar University of Kerman,3
+Islamic Azad University,3
+Al-Farabi Kazakh National University,3
+Universidad Estatal de San Petersburgo,3
+College of NDU,3
+JSC Financial Academy,3
+Trinidad and Tobago,2
+Zimbabwe,2
+Kazan Federal University,2
+Tel Aviv University,2
+University of Wisconsin-Madison,2
+Paris,2
+University of Pittsburgh,2
+Zambia,2
+Hankuk University of Foreign Studies,2
+New York University,2
+University of Turin,2
+University of Bristol,2
+University of Helsinki,2
+Université Robert Schuman,2
+Albert-Ludwigs-Universität Freiburg,2
+University at Albany State University of New York,2
+Archives d'État de la Fédération de Russie (Moscou),2
+Justus-Liebig-Universität Gießen,2
+Liberty University,2
+Chinese Academy of Social Sciences,2
+OH,2
+University of Birmingham,2
+Laboratoire de Sociologie Quantitative (CREST-INSEE),2
+University College London,2
+Boston College,2
+Georgetown University,2
+Délégation aux Affaires Stratégiques,2
+World Bank,2
+Jones D.C,2
+School of Law,2
+University of Minnesota,2
+University of North Texas,2
+Ben-Gurion University of the Negev,2
+Senegal,2
+North Macedonia,2
+Empirica Research and Consultancy Institute,2
+National Research University Higher School of Economics,2
+Pacific State University,2
+Caspian University,2
+L.N. Gumilyov Eurasian National University,2
+Taraz Innovative Humanitarian University,2
+Polish Academy of Sciences,2
+National University Lviv Polytechnic,2
+Venezuela,2
+Πανεπιστήμιο Διεθνών Σχέσεων,2
+SPBU,2
+Faculty of Humanities,2
+Inst for Railway Research,1
+Schafer R.B,1
+International Labour Office,1
+Tallinn Pedagogical University,1
+Estonian Chamber of Commerce and Industry,1
+Geography at Stockholm School of Economics,1
+University of Manchester,1
+University of Tulsa,1
+International Institute for Strategic Studies,1
+International Planning Services Inc,1
+Georgia Institute of Technology,1
+Moscow University,1
+Harvard University,1
+Whittier College,1
+London,1
+RSFSRRussia,1
+National War College,1
+London School of Economics and Political Science. l.ozolina@lse.ac.uk,1
+Bolivia,1
+Black C.E,1
+Dupree L,1
+Isham H,1
+KS 60045. vag@ku.edu,1
+CA,1
+Theriault A.D,1
+Richardson R,1
+Ghana,1
+McHoul A,1
+Universidad Bernardo O'Higgins,1
+Forrester J,1
+Høgskolen i Lillehammer,1
+The George Washington University,1
+Nagel K.-J,1
+Feng C,1
+French National Center for Scientific Research (cnrs),1
+Golomshtok I,1
+Gubaidullin A,1
+Berlin I,1
+Yelenevskaya M,1
+Rojo M,1
+Faculty of Social Sciences,1
+Gilbert S,1
+Komljen I,1
+Taber S.J,1
+Yeager F.J,1
+SIECE,1
+Bureychak T,1
+Komilova Z,1
+Jenks A,1
+Ellsworth R.F,1
+Northeastern Illinois University,1
+Siberian Branch,1
+Kabardino-Balkarian Institute of Humanitarian Studies,1
+Department of Anthropology,1
+European University Viadrina,1
+Kheng-Lian K,1
+Mozambique,1
+Kisriev E,1
+Haynes J.E,1
+Visson L,1
+de Jong B,1
+van Reijn J,1
+Gambia,1
+Donaldson R.H,1
+Nogee J.L,1
+Simon S.E.D,1
+Simon L,1
+Gladkyy O,1
+Gábor L,1
+Sachs M,1
+Aira T,1
+Nérard F.-X,1
+Gottwald B,1
+Kazakhstan Institute for Strategic,1
+Oregon State University,1
+South Sudan,1
+Sudan,1
+Sutton B,1
+Kouts N,1
+Shchurko T,1
+Leich H.M,1
+Maldives,1
+Mehdi Y.S,1
+Juubeliks S,1
+Fedor J,1
+French Guiana,1
+Gibson B,1
+Alonso C.E,1
+Waller M,1
+Boyd D,1
+Solonin M,1
+Grant K.A,1
+Fausett E,1
+Rodgers S,1
+Žídek R,1
+Pšida J,1
+The Economic Policy and Research Center Dubai Economic Council,1
+Lapham K,1
+Holquist P,1
+Martin A.M,1
+Ryan J,1
+Jillions J.A,1
+Plekon M,1
+Williams R,1
+Berger P.L,1
+Habecker D,1
+Carlson R,1
+Winslow J,1
+Cambodia,1
+Fernández F.J.M,1
+Azizi H,1
+Tartu U7die,1
+Iastrebov G.A,1
+Vera M,1
+Tiede W,1
+Brun I,1
+Kershner S,1
+Schmitter P.C,1
+Suanberg I,1
+van der Wusten H,1
+Teller N,1
+Triaire D,1
+Tang B,1
+Edelman O.V,1
+Zavadskaia E.Y,1
+Livshin O,1
+Janco A,1
+United Nations Economic Commission for Europe,1
+Donahoe B,1
+Pimentel M.S,1
+DePaul University,1
+Farris K,1
+Mort V,1
+Genoways T,1
+Robertson A.E,1
+Munson S,1
+Kasmambetov S,1
+Department of Special Pedagogics,1
+Wilder A,1
+Ratsiborinskaya D,1
+Hiers W,1
+Nevalyonnaya A,1
+Buchanan D,1
+Zavershneva E,1
+Barth R,1
+Dannenberg T,1
+Wagner K,1
+Achvarina V,1
+Murphy J,1
+Sulaimanova A,1
+Yonsei University,1
+May E.R,1
+Steiner Z,1
+Benyahia S.C,1
+Ruby L,1
+Fritzsche B,1
+Foreign Policy Initiative,1
+Fidan H,1
+State Classical Academy,1
+Puerto Rico,1
+Chuprov V.I,1
+Kondratyev S,1
+Salikhov M,1
+Nilsson N,1
+Vassiliev A,1
+University of Connecticut,1
+Lauristin M,1
+Siirman E,1
+Magazine,1
+SOAS,1
+West C,1
+Institut für Sozialforschune im Arbeitsbereich Theorie und Geschichte der Gewalt,1
+IBM,1
+Berliner Technischen Kunsthochschule,1
+Liebermann D,1
+Gray A.I,1
+Science Politique a l'Inalco,1
+University of Tübingen,1
+Seton Hall University,1
+University of Reading,1
+University of Haifa,1
+Republic of Karachai-Cherkessia,1
+Durham University,1
+Kyrgyz-Russian Slavic University,1
+Buffalo State College,1
+American Enterprise Institute (AEI),1
+World Trade Institute,1
+Tamkang University,1
+Stanford University,1
+School of Slavonic and East European Studies,1
+Victoria University,1
+Grigsby N,1
+Carroll E,1
+Blaser M,1
+Wilson A,1
+Korea National Defense University,1
+Scientific Methodological Center of Play and Toys,1
+Omaha,1
+L'Institut Thomas More (Paris-Bruxelles),1
+Queen's University,1
+Staatliche Technische Universität Irkutsk,1
+Sankt Petersburger Staatlichen Universität für Kultur und Künste,1
+Sankt Petersburger Staatlichen Universität für Technologie und Design,1
+Ecole des Hautes Études en Sciences Sociales,1
+Universität St. Gallen,1
+Schröder H,1
+Litauischen Komitees Von United World Colleges,1
+Australian National University,1
+Naval Postgraduate School,1
+U.S. Foreign Service,1
+Bergholz K,1
+UdSSR,1
+University of San Marino,1
+Gustave Eiffel (Université Paris XII),1
+George Washington University,1
+Swarthmore College,1
+Universität Bremen,1
+UCM/Instituto de Filosofía CSIC,1
+Walter G,1
+Leah Greenspan Advertising and Marketing Ltd,1
+Ministry of Foreign Affairs,1
+Panama,1
+University of Michigan,1
+Chelyabinsk State University,1
+l'Institut de Géographie de Paris IV-Sorbonne,1
+MA 01063,1
+UMR LADYSS 7533,1
+UMR Géographie-Cités 8504,1
+Brookings Institution,1
+OAO LUKOIL,1
+OSCE,1
+264 Bay State Road,1
+64 Cummington Street,1
+Myagkov M,1
+Ordeshook P.C,1
+Department of Physical Geography and Geoecology,1
+Department of Economic Theory,1
+Shanghai Cooperation Organization (SCO),1
+Open University,1
+Boston University,1
+University of Hyderabad,1
+Webster University,1
+University of Amsterdam,1
+Commission on Security and Cooperation,1
+Shoup B,1
+sociétés - AUS 7136,1
+En mission en Lettonie,1
+German Multinational Company,1
+U.S. Naval Academy,1
+RAND Drug Policy Research Center,1
+Hebrew University of Jerusalem,1
+Freie Universität Berlin,1
+New Mexico Institute of Mining and Technology,1
+Universität Tübingen,1
+TU Chemnitz,1
+CA 93407,1
+CA 93403-8106,1
+Journaliste indépendante dans les Etats baltes,1
+P. I. Tchaikovsky Moscow State Conservatoire,1
+Collabore á l'Emission le Dessous des Cartes,1
+EHESS,1
+Musayev B,1
+University of Oxford,1
+OSI Public Health Program,1
+Hoover J,1
+Perez-Verzini M,1
+Castalia Strategic Advisors,1
+University of Melbourne,1
+Department of Official Publications and Normative Documents,1
+Taraskin O,1
+Berlin's Humboldt University,1
+Technische Universität München,1
+University of Arizona,1
+Germany's Baltische Historische Kommission,1
+Organizational Learning,1
+c/o Diogenes,1
+Comité des Regions de l'Union Européenne,1
+Gvozdeva E,1
+Bayerischen Staatsbibliothek für den Bereich Mikroformen,1
+Wächtersbach,1
+Principal Institut de Sondage Indépendant de Russie,1
+Independent Scholar Affiliated with Yad Vashem,1
+Azerbaycan Avrasya Araştirmalari Merkezi Başkani,1
+Des minorités (GDM),1
+Meyers-JDC-Brookdale Jerusalem,1
+University of Latvia,1
+Directeur du Centre,1
+King's College London,1
+Samaddar R,1
+Clarkson Research Services,1
+Marnie S,1
+Nilsson I,1
+Dadabayeva N,1
+Kobrinskii A,1
+Kawamura Y,1
+Kolchinsky E,1
+Maier H,1
+Yamazaki M,1
+Hanover College,1
+Southeast Missouri State University,1
+Università degli studi di Napoli Federico II,1
+Schmid S,1
+Hoffmann D,1
+Krementsov N,1
+Wang J,1
+Heim S,1
+Weiss S.F,1
+Bergen P,1
+Zeitschrift Znanie - Sila,1
+Badyina A,1
+U.S. Department of Justice,1
+University of Rome III,1
+Tinios P,1
+Valletta W,1
+University of Miami School of Architecture,1
+Universidad Autónoma de Madrid,1
+University of Manitoba,1
+University of Groningen,1
+NRK,1
+Fresco N,1
+Shvidenko A,1
+Danell K,1
+Chapin III F.S,1
+Texas A and M University,1
+Université de Hawaï à Manoa,1
+Referentin Intl. Bildungs/B.D,1
+Chefredakteur Internetausgabe I./A,1
+Promotion/Protection of Human Rights,1
+Intervenant en économie à l'Essca,1
+New York City,1
+National Archives and Records Administration,1
+CNRS,1
+Departament de Filologia Anglesa i Alemanya,1
+Pereira L.H,1
+Kontula O,1
+Glasgow Caledonian University,1
+Anders E,1
+Museum and Documentation Center Ebreji Latvij,1
+Sonoma State University,1
+Écl. Norm. Sup,1
+Norris A.E,1
+Chiang L,1
+Zsigovits G,1
+Universiteit Utrecht,1
+University of Leeds,1
+Bioquímica Clínica,1
+Reunion,1
+Kellogg College,1
+Metropolitan State College of Denver,1
+Rieber R.W,1
+Villanova University,1
+Université des Antilles et de la Guyane,1
+De Montfort University,1
+Princeton University,1
+University of Southampton,1
+Oxford Brookes University,1
+University of Wales Swansea,1
+University of Florida,1
+Washington and Lee University,1
+Frasca T,1
+Center for Advanced Holocaust Studies,1
+Quddus M,1
+Department of MEiMO,1
+Burrows D,1
+Melnikov V,1
+Bijl M,1
+Veeken H,1
+Braun M,1
+Langfeldt B,1
+Centre for European Migration and Ethnic Studies (CEMES),1
+York University,1
+University of Calabria,1
+University of Pisa,1
+University of Wyoming,1
+Tate Gallery of Modern Art,1
+CNRS (French National Centre for Scientific Research),1
+Amir M,1
+Case Western Reserve University,1
+University of Delaware,1
+Vidal Sassoon International Center for the Study of Antisemitism,1
+Columbia University,1
+Khodakevich L,1
+Kobyshcha Y,1
+Dublin Institute of Technology,1
+Zaguidoulline M.G,1
+Dept. for International Development,1
+Galia,1
+Springer A,1
+Larrison C,1
+Issac A,1
+Inst,1
+Dahlman C.T,1
+Peake J.S,1
+Austin,1
+Henry Ford Community College,1
+Snow D.A,1
+Schmitt D.P,1
+Asian Cinema,1
+Corrado S,1
+Massachusetts Institute of Technology,1
+Johns Hopkins University,1
+Winjum J.K,1
+Friedman S,1
+Anderson J.R,1
+ISPRU,1
+Hamburger Institute für Sozialforschung,1
+San Francisco CA 94104-1020 COU USA,1
+Bulevar revolucije 73,1
+Friedrich-Schiller-Univ. Jena,1
+NSW 2622,1
+University of Toronto,1
+Los Angeles,1
+National University of Singapore,1
+University of Tennessee,1
+University of Otago,1
+US Department of State,1
+GOSKOMSTAT de Russie,1
+Nicolopoulou A,1
+Silberman J.M,1
+Dutz M,1
+Agric. and Fish,1
+Ari R.B,1
+Amir Y,1
+Eliassy L,1
+University of Southern California,1
+Uppsala University,1
+La Trobe University,1
+National Chengchi University,1
+University of Nantes,1
+Komazawa University,1
+Gyurkovics D,1
+ul. Ranenki,1
+Maslow A.A,1
+Brunei Darussalam,1
+Murmansk Advanced Teachers' College,1
+Euroconsult 71 Bvd Richard Lenoir 75011 Paris France,1
+Somalia,1
+Youn H,1
+Bouryak A,1
+Lavrentiev I,1
+Rubenstein C,1
+Liberia,1
+Oman,1
+Ashe T,1
+Eisenstein S,1
+Bahouth H,1
+Michaelson M,1
+Hadary A,1
+Jeroukhimov I,1
+Karawani M,1
+Kessel B,1
+Klein Y,1
+Lin G,1
+Merin O,1
+Mnouskin Y,1
+Miklosh B,1
+Rivkind A,1
+Shaked G,1
+Simon D,1
+Soffer D,1
+Stein M,1
+DiFranceisco W,1
+Koshechkina T.Y,1
+Belyavina R,1
+Moon C.-I,1
+Hunt R.N.C,1
+Sharp S.L,1
+Pushkov A.K,1
+Kulikov P,1
+Holt G.V,1
+Hughes-Wilson J,1
+Hoagland J,1
+Polanyi M,1
+Hubenko D,1
+Tarman B,1
+Congo,1
+IUF,1
+Berekeyeva A,1
+Sharplin E,1
+Courtney M,1
+Kvashilava B,1
+"Center for Security Studies ""CENSS""",1
+Annelie,1
+Rookwood R.M,1
+Goren R,1
+Lopatina E,1
+Turlubekova Z,1
+Davidenko M,1
+Djibouti,1
+McLean H,1
+Kochetkova Е.A,1
+Younis M,1
+Chehonadskih M,1
+Fedorov Y,1
+Gresch C,1
+Csurgó B,1
+Gárdos J,1
+Kerényi S,1
+Blažević I,1
+INALCO,1
+Satterthwaite T,1
+Cunningham E,1
+Motorina A,1
+Vakser S,1
+Irkutsk National Research Technical University,1
+Architectural Studio,1
+Parpart J.L,1
+Kosovo,1
+Zambrano D,1
+Faculty of Polish Philology,1
+Naumann M,1
+Safarov M.A,1
+UK,1
+Kupreishvili L,1
+Garwin R.L,1
+Tang W,1
+Fiji,1
+Uzlaner D,1
+Fedotova N,1
+Lebedzeva M,1
+Patrebin A,1
+McNeer K,1
+University of Central Asia,1
+van der Pol L,1
+Szulecki K,1
+Eurasia Department,1
+School of Humanities and Social Sciences,1
+Schmit T,1
+Busol K,1
+National Research University - Higher School of Economics,1
+Universidad de Sevilla,1
+Universidad de la Sabana,1
+Texas AandM University-Corpus Christi,1
+Sheiko K,1
+The Bath House Readings,1
+Russian Presidential Academy of National Economy and Public Administration,1
+Gasparian D,1
+Chayanov А.V,1
+Financial Institutes of KFU,1
+Kostyleva E,1
+Violet G,1
+Perisic A,1
+Ahi E,1
+Eritrea,1
+Aznabaev B.A,1
+Frolova I.V,1
+Schultz U,1
+Melville S,1
+RWTH Aachen University,1
+International Eurasian Movement,1
+Department of Constitutional and Municipal Law of Kutafin Moscow state Law University (MSLA),1
+Academia Sinica,1
+FU Berlin,1
+UiT: The Arctic University of Norway,1
+Monaco,1
+The Ministry of Foreign Affairs of the Russian Federation,1
+Klosek K.C,1
+Bahenský V,1
+Smetana M,1
+Collaborated in the research,1
+Yale University,1
+University of Basel,1
+Hanson S,1
+Taylor Y,1
+Everett A.M,1
+CETOBAC (EHESS),1
+Liu W,1
+Spécialiste de la Geópolitique de la Russie et du Sport,1
+Amon I,1
+Zhigunova L,1
+Zentr K,1
+Philippova E,1
+Piechaczek-Borkowska M,1
+Makarchuk S,1
+Adam S,1
+Thomas L,1
+Morri H.M,1
+Slupsku-Instytut Filologii Akademii Pomorskiej W Slupsku,1
+International Economic Law,1
+tónoma de Barcelona,1
+Saint Petersburg State University,1
+University of Guilan,1
+Azad Islamic University,1
+Azad University,1
+University of Tarbiat Modares,1
+Allameh Tabatabaei University,1
+Fedirko O,1
+Eidson J.R,1
+Dunn M,1
+Rawson M,1
+Rogers A,1
+Hamnett C,1
+Randolph B,1
+Jacobs S,1
+Layton E,1
+Malpass P,1
+Gray F,1
+Power A,1
+Thomas A.D,1
+Winter I.C,1
+Alshyyab M,1
+Agentia pentru Stiinta si Memorie Militara,1
+Braithwaite R,1
+Communication Studies Program at Concordia University,1
+Gansen S,1
+Ismail State University of Humanities,1
+Department of Economic and Social Geography of Russia,1
+Vologda Institute of law and economics of Federal Penitentiary Service of Russia,1
+Daffodil International University,1
+Jadara University,1
+University of Islamic Sciences,1
+University of Tyumen,1
+European Centre of Space Law and the French Society of Air and Space Law,1
+European Centre of Space Law,1
+Sh. Yessenov Caspian State University of Technologies and Engineering,1
+Korecki T,1
+Moscow State Institute of International Relations (MGIMO University),1
+Kebalova L,1
+Vytautas Magnus University,1
+European School of Law and Administration,1
+Associate member of SAGE (UMR CNRS 7363),1
+Department of Sociology,1
+Institut für Ge-schichtswissenschaften & Europäische Ethnologie,1
+Bölükoğlu İ.D,1
+Grossmann M,1
+Tallinn University,1
+Uzhhorod National University,1
+National University Odessa Law Academy,1
+Kyiv National University of Trade and Economics,1
+Sabanci A.A,1
+Slavonic Studies,1
+Wistrand J.S,1
+Miklashevskaya L,1
+Castello M.G,1
+Scilabra C,1
+Nakagawa J,1
+Riegler T,1
+Sierra Leone,1
+Buchholz A,1
+Kurokawa T,1
+Krupař S,1
+Wu Z,1
+Rachmanow I,1
+Uniwersytet Jagielloński w Krakowie,1
+South China Normal University,1
+Telewizyjna i Teatralna im. Leona Schillera w Łodzi,1
+Emory University,1
+Universidad Nacional Del Mar Negro Petro Mohyla,1
+Department for the Humanities,1
+Barbour A,1
+Drubek N,1
+Gerritsen H,1
+Holdsworth N,1
+Janev K,1
+Kelly C,1
+Kukuj I,1
+Riley J.L,1
+Schulzki I,1
+Spivak T,1
+Faculty of Communication,1
+Kazan (Volga Region) Federal University,1
+Head of the Press Service at the Institute of Social and Philosophical Sciences and Mass Communications of Kazan (Volga Region) Federal University,1
+The Birsk Branch of the Bashkir State University,1
+Tatar State Humanitarian and Pedagogical University,1
+Russian language teaching methodology Institute of Philology of Moscow State Pedagogical University,1
+Ústav Pro Českou Literatůru AV ČR Prag,1
+Justus Liebig University Giessen,1
+Mariupol State University,1
+Crimea Federal University,1
+Blayone T.J.B,1
+Mykhailenko O,1
+Usca S,1
+Abuze A,1
+Oleksiiv M,1
+Forsvarets Høgskole,1
+Dong X,1
+Wen T,1
+Yamaguchi H,1
+Zhu H,1
+El Hadidi A,1
+Zakharov K,1
+Swaziland,1
+Hort S.E.O,1
+Myanmar,1
+Brezhnev L,1
+Reagan R,1
+Kissinger H.A,1
+Kennedy J.E,1
+Sokolovsky M.V.D,1
+Sidorenko C.A.A,1
+Lomov N.A,1
+Ogarkov M.N.V,1
+Il’in S.K,1
+Kenned J.F,1
+Andropov Y,1
+Uniwersytet Europejski Viadrina we Frankfurcie n. Odra&cedil,1
+Weinstein J.M,1
+Lixin W,1
+Liechtenstein,1
+Silvers B,1
+Suppan A,1
+Syrian Arab Republic,1
+Allan P,1
+Apte D.P,1
+Bandyopadhyay S,1
+Patel A.S,1
+Velacherry J,1
+Balkay B,1
+Saad I.A,1
+Thomas P.R,1
+Pamukkale Un. FEF Cagdas Turk Lehceleri Ve Edebiyatlari Bolumu,1
+Pro Moldova Association of Historians and Political Scientists,1
+French Polynesia,1
+and a member of the Board of Trustees at the Foreign Policy Research Institute,1
+Godsell B,1
+Coulter R,1
+Gajewska D,1
+Independent Researcher,1
+International and Energy Studies,1
+Nghia P.D,1
+History and Theory of Culture,1
+Centro Studi e Documentazione della Cultura Armena (CSDCA),1
+V.I. Vernadsky Crimean Federal University,1
+Miuukova I,1
+Slingerland T,1
+Lizhi F,1
+Vardys V.S,1
+Høivik S,1
+Tuvalu,1

@@ -1,0 +1,29 @@
+id,country
+57303898400,United states
+7003752140,Sweden
+21835282600,Bulgaria
+55676182200,Ukraine
+24292328200,Madagascar
+36545529400,Switzerland
+57195394341,Argentina
+56237051600,Madagascar
+6701375606,Germany
+57303898300,Russian federation
+57303748000,Russian federation
+57210077555,Argentina
+57304047600,United states
+57303591700,Russian federation
+54682189500,Slovakia
+57111796600,New zealand
+9245953700,Lithuania
+35510108300,Australia
+7201947465,Japan
+35262167600,United states
+25627781700,New zealand
+55851027500,Ukraine
+57209330641,Finland
+56268942200,Ecuador
+55834961100,Russian federation
+6507758167,Hungary
+57303898100,Madagascar
+57211295288,Romania
