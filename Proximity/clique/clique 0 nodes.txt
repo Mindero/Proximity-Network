@@ -1,0 +1,206 @@
+id,country
+Pospelova E,Russian federation
+Tomilin A,Russian federation
+Pavlov A,Russian federation
+Ivanova N,Moldova
+Goncharova N,Russian federation
+Kuznetsov A,Russian federation
+Zubina T,Russian federation
+Zheltukhin A,Russian federation
+Zelenetskiy N,Russian federation
+Zakharov V,Russian federation
+Zahvatov A,Russian federation
+Yarema Y,Ukraine
+Yantser O,Russian federation
+Yakovleva M,Russian federation
+Yakovlev V,Russian federation
+YablonovskaGrishchenko E,empty
+Xoliqov T,Uzbekistan
+Voloshina I,Russian federation
+Volodchenkov N,Russian federation
+Vinogradov V,Russian federation
+Vetchinnikova L,Russian federation
+Vekliuk A,Ukraine
+Vasina A,Russian federation
+Vasin A,Russian federation
+Van V,Russian federation
+Van P,Russian federation
+Tyukh Y,Ukraine
+Turgunov M,Uzbekistan
+Tselishcheva L,Russian federation
+Tolmachev A,Russian federation
+Tirski D,Russian federation
+Timoshkin V,Russian federation
+Tikhonov G,Finland
+Tertitsa T,Russian federation
+Teplova V,Russian federation
+Teplov V,Russian federation
+Teleganova V,Russian federation
+Sultangareeva L,Russian federation
+Suleymanova G,Russian federation
+Sukhov A,Russian federation
+Strekalovskaya V,Russian federation
+Stratiy V,Ukraine
+Stepanov S,Russian federation
+Spasovski Y,Russian federation
+Sopin V,Russian federation
+Sokolova G,Russian federation
+Smirnova E,Russian federation
+Skorokhodova S,Russian federation
+Skok N,Russian federation
+Sivkov A,Russian federation
+Sitnikova E,Russian federation
+Sikkila N,Russian federation
+Sibgatullin R,Russian federation
+Shujskaja E,Russian federation
+Shubin S,Russian federation
+Shevchyk V,Ukraine
+Shcherbakov A,Russian federation
+Shashkov M,Russian federation
+Shalaeva K,Russian federation
+Selyunina Z,Ukraine
+Sazonov S,Russian federation
+Sapelnikova I,Russian federation
+Sanko V,Ukraine
+Samoylov A,Russian federation
+Sahnevich M,Russian federation
+Rykova S,Russian federation
+Rybnikova I,Russian federation
+Rudenko M,Ukraine
+Rozhkova O,Russian federation
+Rozhkov Y,Russian federation
+Roslin T,Finland
+Raiskaya J,Russian federation
+Putrashyk I,Ukraine
+Puchnina L,Russian federation
+Prokosheva I,Russian federation
+Prokhorov I,Russian federation
+Pospelov I,Russian federation
+Polyanskaya T,Russian federation
+Polikarpova N,Russian federation
+Podolski S,Russian federation
+Pavlova K,Russian federation
+Panicheva D,Russian federation
+Ovaskainen O,Norway
+Novikova T,Russian federation
+Niroda T,Ukraine
+Nezdoliy T,Russian federation
+Nesterova I,Russian federation
+Nemtseva N,Russian federation
+Nasonova N,Belarus
+Myslenkov A,Russian federation
+Motruk M,Ukraine
+Mitrofanov O,Russian federation
+Minin A,Russian federation
+Meyke E,Finland
+Meydus A,Russian federation
+Megalinskaja I,Russian federation
+Mayorova S,Russian federation
+Mamontov V,Russian federation
+Makovkina L,Russian federation
+Mahmudov A,Uzbekistan
+Luzhkova N,Russian federation
+Lo C,Finland
+Litvinov K,Russian federation
+Lebedev P,Russian federation
+Larin E,Russian federation
+Kuyantseva N,Russian federation
+Kutenkova N,Russian federation
+Kutenkov A,Russian federation
+Kurhinen J,Russian federation
+Kurbanbagamaev M,Russian federation
+Kupriyanova M,Russian federation
+Kulsha Y,Ukraine
+Kulebyakina E,Russian federation
+Kudryavtsev A,Russian federation
+Kuberskaya O,Russian federation
+Kruglikov S,Russian federation
+Krasnopevtseva A,Russian federation
+Kozyr I,Russian federation
+Kozurak A,Ukraine
+Kozsheechkin V,Russian federation
+Kozlovsky E,Russian federation
+Kotlugalyamova E,Russian federation
+Kossenko S,Russian federation
+Kosenkov G,Russian federation
+Korotkikh N,Russian federation
+Korolyova H,Russian federation
+Korobov E,Russian federation
+Kolpashikov L,Russian federation
+Knorre A,Russian federation
+Kiseleva D,Russian federation
+Kazansky F,Russian federation
+Kaygorodova E,Russian federation
+Kalinkin Y,Russian federation
+Ivanova U,Russian federation
+Igosheva S,Russian federation
+Ignatenko E,Russian federation
+Hällfors M,Finland
+Hritankov A,Russian federation
+Hohryakov V,Russian federation
+Gurarie E,United states
+Gromyko L,Russian federation
+Grishchenko V,Ukraine
+Gordeeva T,Russian federation
+Gorbunova E,Russian federation
+Golovcov D,Uzbekistan
+Gaydysh I,Russian federation
+Gavrilov A,Russian federation
+Gashev S,Russian federation
+Filatova T,Russian federation
+Fedotova V,Russian federation
+Fedchenko I,Russian federation
+Evstigneev O,Russian federation
+Esengeldenova A,Russian federation
+Ershkova E,Russian federation
+Ermakova OS,Russian federation
+Ermakova O,Russian federation
+Epova L,Russian federation
+Elsukov S,Russian federation
+Dubrovsky Y,Ukraine
+Dubanaev A,Kyrgyzstan
+Drozdova Z,Russian federation
+Drovnina S,Russian federation
+Dostoyevskaya L,Russian federation
+Dobrolyubov A,Russian federation
+Diadicheva E,Ukraine
+Demchenko V,Ukraine
+Delgado MM,empty
+Davydov EA,Russian federation
+Chuhontseva S,Russian federation
+Chistjakov S,Russian federation
+Cherenkova N,Russian federation
+Chashchina O,Russian federation
+Chakhireva E,Russian federation
+Bykov Y,Russian federation
+Buyvolova A,Russian federation
+Buyvolov Y,Russian federation
+Butunina A,Russian federation
+Bukharova E,Russian federation
+Bondarchuk S,Russian federation
+Bolshakov V,Russian federation
+Bogdanov G,Russian federation
+Bochkareva E,Russian federation
+Bobrovskyi V,Russian federation
+Bobrov V,Russian federation
+Bobretsov A,Russian federation
+Bisikalova E,Russian federation
+Bespalova T,Russian federation
+Belyaeva N,Russian federation
+Belova N,Russian federation
+Basilskaja I,Russian federation
+Barabancova A,Russian federation
+Bakin O,Russian federation
+Babushkin M,Russian federation
+Babina S,Russian federation
+Arzamascev K,Russian federation
+Antão L,Finland
+Antipin M,Russian federation
+Andriychuk N,Ukraine
+Andreeva E,Russian federation
+Ananin A,Russian federation
+Akkiev M,Russian federation
+Akimova T,Russian federation
+Adrianova O,Russian federation
+Abduraimov O,Uzbekistan
+Abadonova M,Russian federation

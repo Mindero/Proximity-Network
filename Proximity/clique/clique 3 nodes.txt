@@ -1,0 +1,65 @@
+id,country
+Munteanu C,Germany
+Gehlbach S,United states
+Radeloff VC,United states
+Uvsh D,United states
+Potapov PV,United states
+Bragina EV,United states
+Smaliychuk A,Ukraine
+Levers C,Germany
+Alcantara C,empty
+Kruhlov I,Ukraine
+Keuler NS,United states
+Hostert P,Germany
+Waske B,Germany
+Stefanski J,Germany
+Chaskovskyy O,Ukraine
+Schierhorn F,Germany
+Prishchepov VA,empty
+Dubinin M,Russian federation
+Baumann M,Germany
+Ozdogan M,United states
+Meyfroidt P,Belgium
+Yakovlev I,Russian federation
+Urazaliyev R,Kazakhstan
+Smelansky I,Russian federation
+Ryakhov R,Russian federation
+Myachina KV,Russian federation
+Grudinin D,Russian federation
+Dubrovskaya S,Russian federation
+Fliemann E,Germany
+Shchepashchenko M,Russian federation
+See L,Austria
+Schepaschenko D,Russian federation
+Moltchanova E,New zealand
+Martynenko O,Russian federation
+Kutovaya O,Russian federation
+Kraxner F,Austria
+Karminov V,Russian federation
+Havlik P,Austria
+Fritz S,Austria
+Estel S,United states
+Dürauer M,Austria
+Bun R,Poland
+Alcántara C,Mexico
+Kuemmerle T,Germany
+Prishchepov AV,Russian federation
+Kussul N,Ukraine
+Raab C,Germany
+Abdullaev I,Germany
+Löw F,Germany
+Lamers JPA,Germany
+Conrad C,Germany
+Zhen L,China
+Yan H,China
+Qin Y,United states
+Lai C,China
+Akshalov K,Kazakhstan
+Hu Y,China
+Li H,China
+Zhu Y,China
+Zhang K,China
+Yang X,China
+Wei W,China
+Wang B,China
+Shi Z,China

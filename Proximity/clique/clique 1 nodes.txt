@@ -1,0 +1,125 @@
+id,country
+Bowser D,empty
+Bartov O,United states
+Raciti G,Italy
+Chari C,India
+Rocha de Oliveira P,United kingdom
+Dutschke R,empty
+Khokhlov E,empty
+Filippova M,Russian federation
+Diveeva N,Russian federation
+Guo Z,China
+Chernysh MF,Russian federation
+Sayers S,United kingdom
+Dal Maso J,Argentina
+Korovin EA,Russian federation
+Mareyeva E,Russian federation
+Mackenzie I,United kingdom
+Bates D,United kingdom
+Momdzhyan KKh,empty
+Fuller J,United states
+Burchill S,Australia
+Hill D,United kingdom
+Mareev S,Russian federation
+Mareeva E,empty
+Wiener G,Hungary
+Levada IA,empty
+Sherikhova E,Russian federation
+Lukojanov V,Russian federation
+Ritner SB,United states
+Lukin V,empty
+Dobrokhotov LN,Russian federation
+Câmpeanu R,Romania
+Croitor S,Romania
+Dieterich H,Mexico
+Kommers P,Netherlands
+Jerath RM,India
+Krikh SВ,empty
+Yu B,China
+Shenming L,China
+Bunge M,Canada
+de Moraes BM,Brazil
+Segundo MDM,empty
+Gonçalves RMP,empty
+Do Carmo FM,Brazil
+Sukhodub TD,Ukraine
+Pavlov VL,Ukraine
+Kornhaber D,United states
+Wei X,empty
+Telebaev G,Kazakhstan
+Bekezhan О,Kazakhstan
+Aralbay S,Kazakhstan
+Abdrahmanova K,Kazakhstan
+Zolotov AV,Russian federation
+Popov MV,Russian federation
+Ford DR,United states
+de MoraesNeto BR,empty
+Allain B,empty
+Shakhnovich ММ,Russian federation
+Dudnik SI,Russian federation
+Nikandrov A,Russian federation
+Pry R,France
+Baldacchino J,United kingdom
+Yuri NM,United states
+Latov YuV,empty
+Shaoxing W,China
+Harding N,United kingdom
+Burkett P,United states
+Traverso E,United states
+Růžička J,Czech republic
+Landa I,Czech republic
+Panayotakis C,United states
+Burgos R,Brazil
+Temkin G,Canada
+Bronner SE,United states
+Bogomolova AV,Russian federation
+Hohoš L,Slovakia
+Stuchka PI,Russian federation
+Rockmore T,China
+Nitsch TO,United states
+Carpi G,Italy
+Judson Mitchell R,United states
+Arrington RS,United states
+Marković G,Bosnia and herzegovina
+Nistad BD,Norway
+Chattopadhyay P,Canada
+Ilyenkov EV,Russian federation
+Krishnaji N,empty
+Ilyenkov E,empty
+Syutkin А,Russian federation
+Fitzsimmons R,Finland
+Meyer G,United states
+Rieber RW,
+Frank SK,Germany
+Swain D,Czech republic
+Hösle V,United states
+Chesnokova MG,Russian federation
+Honkanen P,empty
+Chaudhary R,India
+Siddiqui K,United kingdom
+Altınörs A,Turkey
+Fleischer H,Germany
+Vega DM,Spain
+Alonso CE,
+Stepanov MM,Russian federation
+Akhtar Z,United kingdom
+Tolubets N,Ukraine
+Dramaretskiy B,Ukraine
+Barros C,Spain
+Maitra P,New zealand
+Resnick SA,empty
+Artinian A,empty
+Sampanikou ED,Greece
+Kelly RJ,United states
+Vnutskikh A,Russian federation
+Beresneva N,Russian federation
+Klusaite L,Lithuania
+Uboitseva E,Russian federation
+Serebryakov F,Russian federation
+Khaziev A,empty
+Ibragimova Z,Russian federation
+Stepanenko RF,Russian federation
+Stepanenko GN,Russian federation
+Klyushina EV,Russian federation
+Khazieva NO,Russian federation
+Khaziev AK,Russian federation

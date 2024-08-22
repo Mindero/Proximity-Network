@@ -1,0 +1,53 @@
+id,country
+KołodziejskaDegórska I,empty
+Prakofjewa J,Italy
+Sõukand R,Italy
+Kalle R,Italy
+Kõiva M,Estonia
+Vyskvarka S,Belarus
+Vnukovich Y,Belarus
+Vasilyeva I,Belarus
+Silivonchyk H,Belarus
+Paulava A,Belarus
+Paciupa J,Belarus
+Litvinava Y,Belarus
+Knureva Y,Belarus
+Hrynevich Y,Belarus
+Hlushko A,Belarus
+Sulaiman N,Czech republic
+Shah AA,Pakistan
+Polesny Z,Czech republic
+Aziz MA,Italy
+Svanberg I,Sweden
+Łuczaj T,empty
+Tardío J,Spain
+Quave CL,United states
+Piroznikow E,Poland
+Petkevičius R,Lithuania
+PardodeSantayana M,empty
+Mustafa B,Serbia
+MenendezBaceta G,empty
+Hajdari A,Serbia
+AceitunoMata L,empty
+Kolosova V,Italy
+Pieroni A,Iraq
+Tchelidze D,Georgia
+Sikharulidze S,Georgia
+Paniagua Zambrana NY,empty
+Kikvidze Z,Georgia
+Kikodze D,Georgia
+Khutsishvili M,Georgia
+Mattalia G,Spain
+Melnikov D,Russian federation
+Ur Rahman I,Pakistan
+Hart RE,United states
+Zambrana NYP,Georgia
+Stryamets N,Italy
+Belichenko O,Italy
+Pupynina M,Russian federation
+Orr D,United states
+Jernigan K,United states
+Orr DJ,empty
+Kolosova VB,empty
+Jernigan KA,empty
+Belichenko OS,empty
